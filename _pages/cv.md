@@ -57,3 +57,17 @@ Talks
 Service and leadership
 ======
 * Currently signed in to 43 different slack teams -->
+Awards
+======
+
+* North American Summer School for Logic, Language and Information [https://ml-la.github.io/nasslli2022/](NASSLLI) Student Grant 2022
+* Accepted to Lisbon Machine Learning Summer School [http://lxmls.it.pt/2021/](LxMLS) 2021
+* Accepted to Carnegie Mellon University Summer School in Logic and Formal Epistemology [https://www.cmu.edu/dietrich/philosophy/undergraduate/summer-school/](LFE) 2021
+* Best paper “Desire Semantics”, selected for UC San Diego undergraduate philosophy journal [Intuitions](https://ucsdphilclub.wordpress.com/events/intuitions/) 2020
+
+Work Experience
+======
+* Summer 2021: NLP Research Intern
+  * [Posh Technologies](https://www.posh.tech/?gclid=CjwKCAjw6raYBhB7EiwABge5Ki_QhTY5N-OnouE_tKSYV8QJvZr-x9IYxgGC6kzvX8KiBjGvPIW1PRoCkLAQAvD_BwE)
+  * Duties included: machine learning research and dataset curation for conversational AI.
+  * Supervisor: Rishi Sharma
