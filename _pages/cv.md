@@ -57,12 +57,13 @@ Talks
 Service and leadership
 ======
 * Currently signed in to 43 different slack teams -->
+
 Awards
 ======
 
-* North American Summer School for Logic, Language and Information [https://ml-la.github.io/nasslli2022/](NASSLLI) Student Grant 2022
-* Accepted to Lisbon Machine Learning Summer School [http://lxmls.it.pt/2021/](LxMLS) 2021
-* Accepted to Carnegie Mellon University Summer School in Logic and Formal Epistemology [https://www.cmu.edu/dietrich/philosophy/undergraduate/summer-school/](LFE) 2021
+* North American Summer School for Logic, Language and Information [NASSLLI](https://ml-la.github.io/nasslli2022/) Student Grant 2022
+* Accepted to Lisbon Machine Learning Summer School [LxMLS](http://lxmls.it.pt/2021/) 2021
+* Accepted to Carnegie Mellon University Summer School in Logic and Formal Epistemology [LFE](https://www.cmu.edu/dietrich/philosophy/undergraduate/summer-school/) 2021
 * Best paper “Desire Semantics”, selected for UC San Diego undergraduate philosophy journal [Intuitions](https://ucsdphilclub.wordpress.com/events/intuitions/) 2020
 
 Work Experience
