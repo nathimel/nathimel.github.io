@@ -15,7 +15,7 @@ citation: 'Imel, N. and Steinert-Threlkeld, S. (2022). &quot;Modal semantic univ
 
 ### Poster
 
-!(../images/poster.jpeg)
+![](../images/modals_poster.jpeg)
 
 ### Abstract
 
