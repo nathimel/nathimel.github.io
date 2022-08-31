@@ -23,7 +23,7 @@ Some of the questions I’m interested in include:
 * What pressures shape human languages?
 * Can these pressures help us guide AIs towards optimal and safe communication?
 * How does human information processing shape scientific inquiry?
-* Can we harness these facts to build technology that helps researchers communicate?
+* Can we harness these facts to build technology that helps people do research efficiently?
 
 For more information about my research, see the CV section of this page.
 

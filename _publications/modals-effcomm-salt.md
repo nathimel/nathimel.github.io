@@ -11,8 +11,11 @@ citation: 'Imel, N. and Steinert-Threlkeld, S. (2022). &quot;Modal semantic univ
 
 [Paper](https://lingbuzz.net/lingbuzz/006740)
 [Slides](https://osf.io/gyn3t/)
-[Poster](images/modals_poster.jpeg)
 [Code](https://github.com/nathimel/modals-effcomm)
+
+### Poster
+
+!(../images/poster.jpeg)
 
 ### Abstract
 
