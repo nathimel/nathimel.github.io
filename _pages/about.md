@@ -78,6 +78,13 @@ Service and leadership
 ======
 * Currently signed in to 43 different slack teams -->
 
+Projects
+======
+
+* The Artificial Language Toolkit [(ALTK)](https://github.com/nathimel/altk)
+  * Software library for research in computational semantics (ongoing).
+
+
 Awards
 ======
 
