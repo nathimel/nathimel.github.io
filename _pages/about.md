@@ -8,11 +8,24 @@ redirect_from:
   - /about.html
 ---
 
-About
-======
-I'm an first year Ph.D. student at the [Department of Logic and Philosophy of Science](https://www.lps.uci.edu/) at UC Irvine.
+I'm a first year Ph.D. student at the [Department of Logic and Philosophy of Science](https://www.lps.uci.edu/) at UC Irvine.
 
-I earned an M.S. in computational linguistics at the University of Washington, working with [Shane Steinert-Threlkeld](https://www.shane.st/) at the [CLMBR](https://clmbr.shane.st/) lab. Before that I earned my B.A. in philosophy at UC San Diego.
+I earned an M.S. in computational linguistics at the University of Washington, working with [Shane Steinert-Threlkeld](https://www.shane.st/) at the [CLMBR](https://clmbr.shane.st/) lab. Before that I earned a B.A. in philosophy at UC San Diego.
+
+I'm interested in understanding efficient communication and information processing in humans and machines. In particular, my aim is to draw on frameworks from linguistics, machine learning and social epistemology to
+
+* illuminate scientific questions about language and cognition
+* make progress towards safe artificial intelligence
+* assist knowledge workers (e.g., journalists, teachers, scholars) navigating their research landscape
+
+Some of the questions I’m interested in include:
+
+* What pressures shape human languages?
+* Can these pressures help us guide AIs towards optimal and safe communication?
+* How does human information processing shape scientific inquiry?
+* Can we harness these facts to build technology that helps researchers communicate?
+
+For more information about my research, see the CV section of this page.
 
 Education
 ======
@@ -50,10 +63,13 @@ Publications
   
 Talks
 ======
-  <ul>{% for post in site.talks %}
+  <!-- <ul>{% for post in site.talks %}
     {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
+  {% endfor %}</ul> -->
+* Modals in natural language optimize the simplicity/informativeness trade-off
+  * Experiments in Linguistic Meaning -  May 18, 2022 (Philadelphia)
+  * Semantics and Linguistic Theory - June 8, 2022 (Mexico City)
+
 <!-- Teaching
 ======
   <ul>{% for post in site.teaching %}
