@@ -63,9 +63,7 @@ Publications
   
 Talks
 ======
-  <!-- <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul> -->
+
 * Modals in natural language optimize the simplicity/informativeness trade-off
   * Experiments in Linguistic Meaning -  May 18, 2022 (Philadelphia)
   * Semantics and Linguistic Theory - June 8, 2022 (Mexico City)
@@ -92,5 +90,4 @@ Work Experience
 ======
 * Summer 2021: NLP Research Intern
   * [Posh Technologies](https://www.posh.tech/?gclid=CjwKCAjw6raYBhB7EiwABge5Ki_QhTY5N-OnouE_tKSYV8QJvZr-x9IYxgGC6kzvX8KiBjGvPIW1PRoCkLAQAvD_BwE)
-  * Duties included: machine learning research and dataset curation for conversational AI.
-  * Supervisor: Rishi Sharma
+  * Duties: machine learning research and dataset curation for conversational AI.
