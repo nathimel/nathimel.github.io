@@ -20,7 +20,7 @@ I'm interested in understanding efficient communication and information processi
 
 Some of the questions I’m interested in include:
 
-* What pressures shape human languages?
+* What pressures shape human languages? (see my work on [modals](https://nathimel.github.io/publication/modals-effcomm-salt))
 * Can these pressures help us guide AIs towards optimal and safe communication?
 * How does human information processing shape scientific inquiry?
 * Can we harness these facts to build technology that helps people do research efficiently?
