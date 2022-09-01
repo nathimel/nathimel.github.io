@@ -14,7 +14,7 @@ I earned an M.S. in computational linguistics at the University of Washington, w
 
 I'm interested in understanding efficient communication and information processing in humans and machines. In particular, my aim is to draw on frameworks from linguistics, machine learning and social epistemology to
 
-* illuminate scientific questions about language and cognition
+* address scientific questions about language and cognition
 * make progress towards safe artificial intelligence
 * assist knowledge workers (e.g., journalists, teachers, scholars) navigating their research landscape
 
