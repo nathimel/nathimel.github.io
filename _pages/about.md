@@ -12,11 +12,11 @@ I'm a first year Ph.D. student at the [Department of Logic and Philosophy of Sci
 
 I earned an M.S. in computational linguistics at the University of Washington, working with [Shane Steinert-Threlkeld](https://www.shane.st/) at the [CLMBR](https://clmbr.shane.st/) lab. Before that I earned a B.A. in philosophy at UC San Diego.
 
-I'm interested in understanding efficient communication and information processing in humans and machines. In particular, my aim is to draw on frameworks from linguistics, machine learning and social epistemology to
+I'm interested in understanding efficient communication and information processing in humans and machines. In particular, my aim is to draw on frameworks from linguistics, machine learning and philosophy to
 
 * address scientific questions about language and cognition
 * make progress towards safe artificial intelligence
-* assist knowledge workers (e.g., journalists, teachers, scholars) navigating their research landscape
+* assist knowledge workers (e.g., journalists, teachers, scholars)
 
 Some of the questions I’m interested in include:
 
