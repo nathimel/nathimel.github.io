@@ -12,7 +12,7 @@ I'm a first year Ph.D. student at the [Department of Logic and Philosophy of Sci
 
 I earned an M.S. in computational linguistics at the University of Washington, working with [Shane Steinert-Threlkeld](https://www.shane.st/) at the [CLMBR](https://clmbr.shane.st/) lab. Before that I earned a B.A. in philosophy at UC San Diego.
 
-I'm interested in understanding communication and information processing in nature and AI. I hope to draw on frameworks from linguistics, machine learning and philosophy to
+I'm interested in understanding communication and information processing, in individuals and communities, for both natural and artificial agents. I hope to draw on frameworks from linguistics, machine learning and philosophy to
 
 * address scientific questions about language and cognition
 * make progress towards safe artificial intelligence
@@ -20,7 +20,7 @@ I'm interested in understanding communication and information processing in natu
 
 To this end, some of the questions I’m interested in include:
 
-* What pressures shape human languages? (see my work on [modals](https://nathimel.github.io/publication/modals-effcomm-salt))
+* What cognitive and cultural pressures shape human languages? (see my work on [modals](https://nathimel.github.io/publication/modals-effcomm-salt))
 * Can these pressures help us guide artificial agents towards optimal and safe communication?
 * How do the dynamics of information processing shape scientific inquiry?
 * Can we harness these facts to build technology that helps people do research efficiently?
