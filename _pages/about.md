@@ -25,7 +25,7 @@ To this end, some of the questions I’m interested in include:
 * How do the dynamics of information processing shape scientific inquiry?
 * Can we harness these facts to build technology that helps people do research efficiently?
 
-For more information about my research, see the CV section of this page.
+Below is my CV.
 
 Education
 ======
@@ -78,12 +78,14 @@ Service and leadership
 ======
 * Currently signed in to 43 different slack teams -->
 
-Projects
+Works in Progress
 ======
 
-* The Artificial Language Toolkit [(ALTK)](https://github.com/nathimel/altk)
-  * Software library for research in computational semantics (ongoing).
+* Approximating rate-distortion functions in signaling games
+  * Please email me for a draft
 
+* The Artificial Language Toolkit [(ALTK)](https://github.com/nathimel/altk)
+  * Software library for research in computational semantics
 
 Awards
 ======
