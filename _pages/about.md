@@ -20,7 +20,7 @@ I'm interested in understanding communication and information processing, in ind
 
 To this end, some of the questions I’m interested in include:
 
-* What cognitive and cultural pressures shape human languages? (see my work on [modals](https://nathimel.github.io/publication/modals-effcomm-salt))
+* What cognitive and cultural pressures shape human languages?
 * Can these pressures help us guide artificial agents towards optimal and safe communication?
 * How do the dynamics of information processing shape scientific inquiry?
 * Can we harness these facts to build technology that helps people do research efficiently?
@@ -82,10 +82,10 @@ Works in Progress
 ======
 
 * Approximating rate-distortion functions in signaling games
-  * Please email me for a draft
+  * Please email me for a draft ([code](https://github.com/nathimel/effcomm-simmax), [slides]((https://docs.google.com/presentation/d/1b9pQiHUzUjt2d063srBtBp_58PhuIZz_LRYaLxg35uw/edit?usp=sharing))).
 
-* The Artificial Language Toolkit [(ALTK)](https://github.com/nathimel/altk)
-  * Software library for research in computational semantics
+* The Artificial Language Toolkit (ALTK)
+  * Software library for research in computational semantics ([code](https://github.com/nathimel/altk)).
 
 Awards
 ======
