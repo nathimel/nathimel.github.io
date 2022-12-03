@@ -21,9 +21,9 @@ I'm interested in understanding communication and information processing, in ind
 To this end, some of the questions I’m interested in include:
 
 * What cognitive and cultural pressures shape human languages?
-* Can these pressures help us guide artificial agents towards optimal and safe communication?
-* How do the dynamics of information processing shape scientific inquiry?
-* Can we harness these facts to build technology that helps people do research efficiently?
+* Can understanding them help us guide artificial agents towards optimal communicative behavior?
+* How do various information processing mechanisms constrain scientific inquiry?
+* Can we harness these facts to build technology that helps people to do research efficiently?
 
 Below is my CV.
 
