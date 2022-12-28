@@ -81,11 +81,15 @@ Service and leadership
 Works in Progress
 ======
 
-* Approximating rate-distortion functions in signaling games
-  * Please email me for a draft ([code](https://github.com/nathimel/effcomm-simmax), [slides](https://docs.google.com/presentation/d/1b9pQiHUzUjt2d063srBtBp_58PhuIZz_LRYaLxg35uw/edit?usp=sharing)).
+<!-- * Approximating rate-distortion functions in signaling games
+  * Please email me for a draft ([code](https://github.com/nathimel/effcomm-simmax), [slides](https://docs.google.com/presentation/d/1b9pQiHUzUjt2d063srBtBp_58PhuIZz_LRYaLxg35uw/edit?usp=sharing)). -->
 
-* The Artificial Language Toolkit (ALTK)
-  * Software library for research in computational semantics ([code](https://github.com/nathimel/altk)).
+<!-- * The Artificial Language Toolkit (ALTK)
+  * Software library for research in computational semantics ([code](https://github.com/nathimel/altk)). -->
+
+    <ul>{% for post in site.wips %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul>
 
 Awards
 ======
