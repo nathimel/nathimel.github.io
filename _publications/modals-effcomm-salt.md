@@ -9,7 +9,7 @@ paperurl: 'https://lingbuzz.net/lingbuzz/006740'
 citation: 'Imel, N. and Steinert-Threlkeld, S. (2022). &quot;Modal semantic universals optimize the simplicity/informativeness tradeoff.&quot; <i>Proceedings of Semantics and Linguistic Theory 32</i>.'
 ---
 
-[Paper](https://lingbuzz.net/lingbuzz/006740)
+[Paper](https://doi.org/10.3765/salt.v1i0.5346)
 [Slides](https://osf.io/gyn3t/)
 [Code](https://github.com/nathimel/modals-effcomm)
 

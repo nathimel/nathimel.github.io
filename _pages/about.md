@@ -36,7 +36,7 @@ Education
 Publications
 ======
 
-  <ul>{% for post in site.publications %}
+  <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
@@ -56,7 +56,7 @@ Works in Progress
 <!-- * The Artificial Language Toolkit (ALTK)
   * Software library for research in computational semantics ([code](https://github.com/nathimel/altk)). -->
 
-<ul>{% for post in site.wips %}
+<ul>{% for post in site.wips reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
 
