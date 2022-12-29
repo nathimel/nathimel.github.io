@@ -88,6 +88,7 @@ Works in Progress
   * Software library for research in computational semantics ([code](https://github.com/nathimel/altk)). -->
 
 <ul>{% for post in site.wips %}
+    {% include archive-single-cv.html %}
   {% endfor %}</ul>
 
 Awards
