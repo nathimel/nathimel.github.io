@@ -33,27 +33,6 @@ Education
 * M.S. in Computational Linguistics, University of Washington, 2022
 * Ph.D in Logic and Philosophy of Science, University of California, Irvine, 2028 (expected)
 
-<!-- Work experience
-======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3 -->
-
 Publications
 ======
 
@@ -67,16 +46,6 @@ Talks
 * Modals in natural language optimize the simplicity/informativeness trade-off
   * Experiments in Linguistic Meaning -  May 18, 2022 (Philadelphia)
   * Semantics and Linguistic Theory - June 8, 2022 (Mexico City)
-
-<!-- Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams -->
 
 Works in Progress
 ======
