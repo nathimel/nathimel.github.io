@@ -9,3 +9,11 @@ permalink: /wips/altk
 ---
 
 [Code](https://github.com/nathimel/altk)
+
+### Summary
+
+ALTK is a software library that aims to support research in Unnatural Language Semantics -- a program in linguistics and cognitive science that tries to describe and explain the properties of natural languages by comparing them to the much larger set of mathematically possible languages.
+
+A current focus is on efficient communication: determining whether linguistic meanings are optimized for a trade-off between cognitive complexity and communicative precision.
+
+ALTK is still in development.

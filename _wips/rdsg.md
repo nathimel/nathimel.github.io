@@ -9,7 +9,7 @@ paperurl: 'google.com'
 ---
 
 [Paper](google.com)
-[Slides](google.com)
+[Slides](https://docs.google.com/presentation/d/1b9pQiHUzUjt2d063srBtBp_58PhuIZz_LRYaLxg35uw/edit?usp=sharing)
 [Code](https://github.com/nathimel/rdsg)
 
 ### Abstract
