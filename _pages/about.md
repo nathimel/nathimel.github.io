@@ -87,8 +87,7 @@ Works in Progress
 <!-- * The Artificial Language Toolkit (ALTK)
   * Software library for research in computational semantics ([code](https://github.com/nathimel/altk)). -->
 
-    <ul>{% for post in site.wips %}
-    {% include archive-single-cv.html %}
+<ul>{% for post in site.wips %}
   {% endfor %}</ul>
 
 Awards
