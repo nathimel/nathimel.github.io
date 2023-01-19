@@ -29,9 +29,10 @@ Below is my CV.
 
 Education
 ======
+
+* Ph.D in Logic and Philosophy of Science, University of California, Irvine, 2028 (expected)
 * B.A. in Philosophy, University of California, San Diego, 2020
 * M.S. in Computational Linguistics, University of Washington, 2022
-* Ph.D in Logic and Philosophy of Science, University of California, Irvine, 2028 (expected)
 
 Publications
 ======
