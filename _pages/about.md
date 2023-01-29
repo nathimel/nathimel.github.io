@@ -18,12 +18,12 @@ I'm interested in understanding communication and information processing, in ind
 * make progress towards safe artificial intelligence
 * assist knowledge workers (e.g., journalists, teachers, scholars)
 
-To this end, some of the questions I’m interested in include:
+<!-- To this end, some of the questions I’m interested in include:
 
 * What cognitive and cultural pressures shape human languages?
 * Can understanding them help us guide artificial agents towards optimal communicative behavior?
 * How do various information processing mechanisms constrain scientific inquiry?
-* Can we harness these facts to build technology that helps people to do research efficiently?
+* Can we harness these facts to build technology that helps people to do research efficiently? -->
 
 Below is my CV.
 
