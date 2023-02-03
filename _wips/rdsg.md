@@ -1,5 +1,5 @@
 ---
-title: "The evolution of efficient compression in sim-max games"
+title: "The evolution of efficient compression in signaling games"
 collection: wips
 permalink: /wips/rdsg
 excerpt: #'This paper is about the number 2. The number 3 is left for future work.' date: 
