@@ -5,7 +5,7 @@ permalink: /wips/rdsg
 excerpt: #'This paper is about the number 2. The number 3 is left for future work.' date: 
 # venue: 'Semantics and Pragmatics'
 paperurl: 'https://psyarxiv.com/b62de'
-citation: 'Imel, N. (2023). The evolution of efficient compression in signaling games. PsyArXiv. https://psyarxiv.com/b62de'
+citation: 'Imel, N. (2023). The evolution of efficient compression in signaling games. PsyArXiv.'
 ---
 
 [Paper](https://psyarxiv.com/b62de)
