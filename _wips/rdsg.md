@@ -4,14 +4,14 @@ collection: wips
 permalink: /wips/rdsg
 excerpt: #'This paper is about the number 2. The number 3 is left for future work.' date: 
 # venue: 'Semantics and Pragmatics'
-paperurl: 'google.com'
+paperurl: 'https://psyarxiv.com/b62de'
 # citation: 'Imel, N. ... </i>. (under revision).'
 ---
 
-[Paper](google.com)
+[Paper](https://psyarxiv.com/b62de)
 [Slides](https://docs.google.com/presentation/d/1b9pQiHUzUjt2d063srBtBp_58PhuIZz_LRYaLxg35uw/edit?usp=sharing)
 [Code](https://github.com/nathimel/rdsg)
 
 ### Abstract
 
-Humans speak only a subset of the logically possible languages. In the domain of semantics, growing evidence suggests that natural language meaning systems are subject to an efficiency constraint: maximizing simplicity and informativeness. Under what general conditions can we expect such meaning systems to emerge? This paper presents an evolutionary game-theoretic model of efficient communication to address this question. I consider a similarity-maximizing (sim-max) signaling game in which Sender and Receiver evolve to communicate about a richly structured meaning space. In simulations of Roth-Erev reinforcement learning and a discrete-time replicator dynamic, I show that languages converge near the achievable bounds of efficient compression given by Rate-Distortion Theory. This suggests a concrete connection between the information-theoretic efficiency of meaning systems and their stability in evolution.
+Converging evidence suggests that natural language meaning systems are subject to an efficiency constraint: maximizing simplicity and informativeness (Kemp et al., 2018). It remains less clear how languages optimize for efficiency over time. Towards illuminating these dynamic aspects of efficient communication, we provide a model grounded in evolutionary game theory. We consider a similarity-maximizing signaling game in which a Sender and Receiver evolve to communicate about a richly structured meaning space, and perform simulations of adaptive dynamics that require minimal rationality assumptions about agents. We show that emergent languages converge near the achievable bounds of efficient compression given by Rate-Distortion Theory. This unifies static, information-theoretic accounts of communicative efficiency with dynamic, evolutionary accounts of how meaning can emerge ex nihilo in biological systems.
