@@ -8,7 +8,6 @@ paperurl: 'https://psyarxiv.com/b62de'
 citation: 'Imel, N. (2023). The evolution of efficient compression in signaling games. PsyArXiv.'
 ---
 
-<!-- [Paper](https://psyarxiv.com/b62de) -->
 [Slides](https://docs.google.com/presentation/d/1b9pQiHUzUjt2d063srBtBp_58PhuIZz_LRYaLxg35uw/edit?usp=sharing)
 [Code](https://github.com/nathimel/rdsg)
 
