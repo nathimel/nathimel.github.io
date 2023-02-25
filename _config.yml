@@ -184,6 +184,9 @@ collections:
   wips:
     output: true
     permalink: /:collection/:path/
+  altk:
+    output: true
+    permalink: /:collection/:path/
   portfolio:
     output: true
     permalink: /:collection/:path/
@@ -234,6 +237,10 @@ defaults:
   - scope:
       path: ""
       type: wips
+  # _altk
+  - scope:
+      path: ""
+      type: altk
     values:
       layout: single
       author_profile: true
