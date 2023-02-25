@@ -8,7 +8,7 @@ permalink: /wips/altk
 # citation: 'Steinert-Threlkeld, S., Imel, N., and Guo, Q. &quot; A semantic universal for modality.&quot; <i>Semantics and Pragmatics </i>. (under revision).'
 ---
 
-[Code](https://github.com/nathimel/altk)
+[Code](https://github.com/nathimel/altk) [Docs](https://nathimel.github.io/altk/altk.html)
 
 ### Summary
 
