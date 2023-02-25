@@ -237,6 +237,11 @@ defaults:
   - scope:
       path: ""
       type: wips
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comment: true      
   # _altk
   - scope:
       path: ""
