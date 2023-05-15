@@ -3,9 +3,9 @@ title: "The evolution of efficient compression in signaling games"
 collection: publications
 permalink: /publication/rdsg
 excerpt: #'This paper is about the number 2. The number 3 is left for future work.' date: 
-# venue: 'Semantics and Pragmatics'
+venue: 'Proceedings of The Annual Meeting of the Cognitive Science Society (CogSci 2023)'
 # paperurl: 'https://psyarxiv.com/b62de'
-citation: 'Imel, N. (2023). &quot;The evolution of efficient compression in signaling games.&quot; <i>Proceedings of The Annual Meeting of the Cognitive Science Socity (CogSci 2023)</i>.'
+citation: 'Imel, N. (2023). &quot;The evolution of efficient compression in signaling games.&quot; <i>Proceedings of The Annual Meeting of the Cognitive Science Society (CogSci 2023)</i>. (to appear.)'
 ---
 
 [Preprint](https://psyarxiv.com/b62de)
