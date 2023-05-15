@@ -63,6 +63,7 @@ Works in Progress
 Awards
 ======
 
+* Accepted to Complexity-GAINs(UK) International Summer School [Complexity-GAINS](https://www.santafe.edu/engage/learn/programs/complexity-gains-international-summer-school) 2023
 * North American Summer School for Logic, Language and Information [NASSLLI](https://ml-la.github.io/nasslli2022/) Student Grant 2022
 * Accepted to Lisbon Machine Learning Summer School [LxMLS](http://lxmls.it.pt/2021/) 2021
 * Accepted to Carnegie Mellon University Summer School in Logic and Formal Epistemology [LFE](https://www.cmu.edu/dietrich/philosophy/undergraduate/summer-school/) 2021
