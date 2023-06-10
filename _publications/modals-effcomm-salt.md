@@ -6,7 +6,7 @@ excerpt: # 'This paper is about the number 1. The number 2 is left for future wo
 # date: 2022-10-15
 venue: 'Proceedings of Semantics and Linguistic Theory 32'
 paperurl: 'https://doi.org/10.3765/salt.v1i0.5346'
-citation: 'Imel, N. and Steinert-Threlkeld, S. (2022). &quot;Modal semantic universals optimize the simplicity/informativeness tradeoff.&quot; <i>Proceedings of Semantics and Linguistic Theory 32</i>.'
+# citation: 'Imel, N. and Steinert-Threlkeld, S. (2022). &quot;Modal semantic universals optimize the simplicity/informativeness tradeoff.&quot; <i>Proceedings of Semantics and Linguistic Theory 32</i>.'
 ---
 
 [Paper](https://doi.org/10.3765/salt.v1i0.5346)
