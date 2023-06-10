@@ -1,9 +1,9 @@
 # main links links
 main:
-  - title: "Research"
-    url: /research/
+  # - title: "Research"
+    # url: /research/
 
-  # - title: "Publications"
+  # - title: "Publications" # TODO: figure something nice out w basic titles and teasers maybe
     # url: /publications/
 
   # - title: "Talks"
