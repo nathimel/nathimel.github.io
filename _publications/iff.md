@@ -5,9 +5,11 @@ permalink: /publication/iff-paper
 excerpt: #'This paper is about the number 2. The number 3 is left for future work.' date: 
 venue: 'Semantics and Pragmatics'
 # date: 2023
-paperurl: 'https://doi.org/jrv7'
+# paperurl: 'https://doi.org/jrv7'
 # citation: 'Steinert-Threlkeld, S., Imel, N., & Guo, Q. (2023). &quot;A semantic universal for modality.&quot; <i>Semantics and Pragmatics </i>, 16, 1:EA-1:EA. https://doi.org/10.3765/sp.16.1'
 ---
+
+[Paper](https://semprag.org/index.php/sp/article/view/sp.16.1)
 
 ### Abstract
 

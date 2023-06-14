@@ -3,10 +3,12 @@ title: "Deontic priority in the lexicalization of impossibility modals"
 collection: wips
 permalink: /wips/dp
 excerpt: #'This paper is about the number 2. The number 3 is left for future work.' date: 
-# venue: 'Semantics and Pragmatics'
-paperurl: 'https://psyarxiv.com/h63y9/'
+venue: 'ESSLLI 2023 Workshop'
+# paperurl: 'https://psyarxiv.com/h63y9/'
 citation: 'Uegaki, W., Mucha, A., Imel, N., & Steinert-Threlkeld, S. (2023). Deontic priority in the lexicalization of impossibility modals. PsyArXiv.'
 ---
+
+[Preprint](https://psyarxiv.com/h63y9/)
 
 ### Abstract
 
