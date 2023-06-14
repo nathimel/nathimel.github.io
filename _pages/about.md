@@ -19,7 +19,7 @@ Before coming to Irvine, I earned an M.S. in computational linguistics at the Un
 * make progress towards safe artificial intelligence
 * assist knowledge workers (e.g., journalists, teachers, scholars) -->
 
-I study how social dynamics shape our representations of the world. At the level of cognitive systems, I use evolutionary models to explain why words have their meanings. At the level of scientific communities, I use tools from physics and machine learning to quantitatively characterize publishing behavior. My research is broadly unified by the goal of understanding how people transfer and process information.
+I study how social dynamics shape our representations of the world, from the level of our vocabularies to that of scientific research programs. At the level of cognitive systems, I use evolutionary models to explain why our semantic categories are structured the way they are. At the level of scientific communities, I use large scale, data-driven approaches to characterize publishing behavior. My research is broadly unified by the goal of understanding how people transfer and process information.
 
 Here is my [cv](../files/nathaniel_imel_cv.pdf).
 
