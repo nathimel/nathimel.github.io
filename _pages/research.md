@@ -11,7 +11,7 @@ Peer-reviewed publications
 ======
 
 <ul>{% for post in site.publications reversed %}
-{% include archive-single-custom.html %}
+{% include archive-single.html %}
 {% endfor %}</ul>
   
 <!-- Talks
@@ -25,5 +25,5 @@ Works in progress
 ======
 
 <ul>{% for post in site.wips reversed %}
-    {% include archive-single-custom.html %}
+    {% include archive-single.html %}
 {% endfor %}</ul>
