@@ -10,7 +10,7 @@ Peer-reviewed publications
 ======
 
 <ul>{% for post in site.publications reversed %}
-{% include archive-single.html %}
+{% include archive-single-cv.html %}
 {% endfor %}</ul>
   
 <!-- Talks
@@ -24,5 +24,5 @@ Works in progress
 ======
 
 <ul>{% for post in site.wips reversed %}
-    {% include archive-single.html %}
+    {% include archive-single-cv.html %}
 {% endfor %}</ul>
