@@ -5,7 +5,7 @@ permalink: /wips/dp
 excerpt: #'This paper is about the number 2. The number 3 is left for future work.' date: 
 venue: 'ESSLLI 2023 Workshop'
 # paperurl: 'https://psyarxiv.com/h63y9/'
-citation: 'Uegaki, W., Mucha, A., Imel, N., & Steinert-Threlkeld, S. (2023). Deontic priority in the lexicalization of impossibility modals. PsyArXiv.'
+citation: 'Uegaki, W., Mucha, A., Imel, N., & Steinert-Threlkeld, S. (2023). &quot;Deontic priority in the lexicalization of impossibility modals.&quot; PsyArXiv.'
 ---
 
 [Preprint](https://psyarxiv.com/h63y9/)
