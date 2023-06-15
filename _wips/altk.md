@@ -5,7 +5,7 @@ permalink: /wips/altk
 # excerpt: #'This paper is about the number 2. The number 3 is left for future work.' date: 
 # venue: 'Semantics and Pragmatics'
 # paperurl: 'https://ling.auf.net/lingbuzz/006399'
-# citation: 'Steinert-Threlkeld, S., and Imel, N.. &quot;The artificial language toolkit.&quot;  Unpublished.'.
+citation: 'Steinert-Threlkeld, S., and Imel, N.. &quot;The artificial language toolkit.&quot;  Unpublished.'.
 ---
 
 [Code](https://github.com/CLMBRs/altk) [Docs](https://clmbr.shane.st/altk/altk.html)
