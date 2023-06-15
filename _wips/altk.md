@@ -1,8 +1,8 @@
 ---
-title: "The Artificial Language TookKit (ALTK)"
+title: "The Artificial Language ToolKit (ALTK)"
 collection: wips
 permalink: /wips/altk
-# excerpt: #'This paper is about the number 2. The number 3 is left for future work.' date: 
+excerpt: #'This paper is about the number 2. The number 3 is left for future work.' date: 
 venue: 'Unpublished Software Library'
 # paperurl: 'https://ling.auf.net/lingbuzz/006399'
 citation: 'Imel, N. and Steinert-Threlkeld, S. &quot;The artificial language toolkit.&quot;  Unpublished.'.
