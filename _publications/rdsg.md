@@ -6,7 +6,7 @@ excerpt: #'This paper is about the number 2. The number 3 is left for future wor
 venue: 'Proceedings of the 45th Annual Meeting of the Cognitive Science Society (CogSci 2023)'
 # paperurl: 'https://psyarxiv.com/b62de'
 # date: 2023
-citation: 'Imel, N. (2023). &quot;The evolution of efficient compression in signaling games.&quot; <i>Proceedings of the 45th Annual Meeting of the Cognitive Science Society (CogSci 2023)</i>.'
+citation: 'Imel, N. (2023). &quot;The evolution of efficient compression in signaling games.&quot; <i>Proceedings of the 45th Annual Meeting of the Cognitive Science Society</i>.'
 ---
 
 <!-- [Preprint](https://psyarxiv.com/b62de) -->
