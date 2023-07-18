@@ -16,7 +16,6 @@ I study how social dynamics shape our representations of the world, from the lev
 
 Here is my [cv](../files/nathaniel_imel_cv.pdf).
 
-<!-- testing -->
-Here is my LinkedIn badge:
+Here is a badge:
 
-{% include linkedin_badge.html %}
+<a href="https://google.com" class="badge badge-primary" target="_blank" rel="noopener noreferrer">Badge Text</a>
