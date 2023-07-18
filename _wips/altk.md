@@ -8,8 +8,10 @@ venue: 'Unpublished Software Library'
 citation: 'Imel, N. and Steinert-Threlkeld, S. &quot;The artificial language toolkit.&quot; https://clmbr.shane.st/altk/altk.html.'
 ---
 
-[Code](https://github.com/CLMBRs/altk)
-[Docs](https://clmbr.shane.st/altk/altk.html)
+<!-- [Code](https://github.com/CLMBRs/altk) -->
+<!-- [Docs](https://clmbr.shane.st/altk/altk.html) -->
+[![Docs](https://img.shields.io/badge/docs-lightblue)](https://github.com/CLMBRs/altk)
+[![Code](https://img.shields.io/badge/code-gray)](https://clmbr.shane.st/altk/altk.html)
 
 ### Summary
 

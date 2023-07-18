@@ -10,8 +10,10 @@ venue: 'lingbuzz'
 citation: 'Imel, N., Guo, Q., & Steinert-Threlkeld, S. (2023). &quot;An efficient communication analysis of modal typology.&quot; lingbuzz.'
 ---
 
-[Preprint](https://ling.auf.net/lingbuzz/007392)
-[Code](https://github.com/nathimel/modals-effcomm)
+<!-- [Preprint](https://ling.auf.net/lingbuzz/007392) -->
+<!-- [Code](https://github.com/nathimel/modals-effcomm) -->
+[![Preprent](https://img.shields.io/badge/preprint-lightblue)](https://ling.auf.net/lingbuzz/007392)
+[![Code](https://img.shields.io/badge/code-gray)](https://github.com/nathimel/modals-effcomm)
 
 ### Abstract
 
