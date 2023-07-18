@@ -9,9 +9,6 @@ venue: 'Proceedings of the 45th Annual Meeting of the Cognitive Science Society 
 citation: 'Imel, N. (2023). &quot;The evolution of efficient compression in signaling games.&quot; <i>Proceedings of the 45th Annual Meeting of the Cognitive Science Society</i>.'
 ---
 
-<!-- [Preprint](https://psyarxiv.com/b62de) -->
-<!-- [Paper](https://escholarship.org/uc/item/5dr5h4q0) -->
-<!-- [Code](https://github.com/nathimel/rdsg) -->
 [![Paper](https://img.shields.io/badge/paper-lightblue)](https://escholarship.org/uc/item/5dr5h4q0)
 [![Code](https://img.shields.io/badge/code-gray)](https://github.com/nathimel/rdsg)
 

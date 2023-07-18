@@ -10,7 +10,8 @@ citation: 'Steinert-Threlkeld, S., Imel, N., & Guo, Q. (2023). &quot;A semantic 
 ---
 
 <!-- https://semprag.org/index.php/sp/article/view/sp.16.1 -->
-[Paper](https://doi.org/10.3765/sp.16.1)
+<!-- [Paper](https://doi.org/10.3765/sp.16.1) -->
+[![Paper](https://img.shields.io/badge/paper-lightblue)](https://doi.org/10.3765/sp.16.1)
 
 ### Abstract
 
