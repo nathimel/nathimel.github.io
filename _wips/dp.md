@@ -8,7 +8,6 @@ venue: 'ESSLLI 2023 Workshop'
 citation: 'Uegaki, W., Mucha, A., Imel, N., & Steinert-Threlkeld, S. (2023). &quot;Deontic priority in the lexicalization of impossibility modals.&quot; PsyArXiv.'
 ---
 
-<!-- [Preprint](https://psyarxiv.com/h63y9/)-->
 [![Preprent](https://img.shields.io/badge/preprint-lightblue)](https://psyarxiv.com/h63y9/)
 
 ### Abstract
