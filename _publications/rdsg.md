@@ -10,8 +10,10 @@ citation: 'Imel, N. (2023). &quot;The evolution of efficient compression in sign
 ---
 
 <!-- [Preprint](https://psyarxiv.com/b62de) -->
-[Paper](https://escholarship.org/uc/item/5dr5h4q0)
-[Code](https://github.com/nathimel/rdsg)
+<!-- [Paper](https://escholarship.org/uc/item/5dr5h4q0) -->
+<!-- [Code](https://github.com/nathimel/rdsg) -->
+[![Paper](https://img.shields.io/badge/paper-lightblue)](https://escholarship.org/uc/item/5dr5h4q0)
+[![Code](https://img.shields.io/badge/paper-maroon)](https://github.com/nathimel/rdsg)
 
 ### Abstract
 
