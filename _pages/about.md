@@ -16,6 +16,6 @@ I study how social dynamics shape our representations of the world, from the lev
 
 Here is my [cv](../files/nathaniel_imel_cv.pdf).
 
-Here is a badge:
+had to do it to em:
 
-<a href="https://google.com" class="badge badge-primary" target="_blank" rel="noopener noreferrer">Badge Text</a>
+![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
