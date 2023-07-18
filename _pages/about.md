@@ -19,4 +19,4 @@ Here is my [cv](../files/nathaniel_imel_cv.pdf).
 <!-- testing -->
 Here is my LinkedIn badge:
 
-{{ site.linkedin_badge }}
+{% include linkedin_badge.html %}
