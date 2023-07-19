@@ -8,6 +8,7 @@ venue: 'Proceedings of Semantics and Linguistic Theory 32'
 # date: 2023
 # paperurl: 'https://doi.org/10.3765/salt.v1i0.5346'
 citation: 'Imel, N. and Steinert-Threlkeld, S. (2022). &quot;Modal semantic universals optimize the simplicity/informativeness tradeoff.&quot; <i>Proceedings of Semantics and Linguistic Theory 32</i>.'
+myattr: 'hello'
 ---
 
 [![Paper](https://img.shields.io/badge/paper-lightblue)](https://doi.org/10.3765/salt.v1i0.5346)
