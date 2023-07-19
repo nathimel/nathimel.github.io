@@ -33,13 +33,14 @@
         <a href="{{ base_path }}{{ post.url }}" rel="permalink">{{ title }}</a>
       {% endif %}
     </h3>
-    {% if post.myattr %}
+    <!-- {% if post.myattr %} 
         <a href="{{ base_path }}{{ post.url }}" rel="permalink">{{ title }}</a>
-    {% endif %}
+    {% endif %} -->
     {% if post.read_time %}
       <p class="page__meta"><i class="fa fa-clock-o" aria-hidden="true"></i> {% include read-time.html %}</p>
     {% endif %}
     {% if post.venue%}<p class="archive__item-excerpt" itemprop="description">{{ post.citation }}</p> {% endif %}
+    {% if post.myattr%}<p class="archive__item-excerpt" itemprop="description">{% for badge in post.badges %} {{ title }} {% endfor %}</p> {% endif %}
     </li>
  </article>
 </div>
