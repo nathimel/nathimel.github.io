@@ -17,7 +17,7 @@ Peer-reviewed publications
 Works in progress
 ======
 
-<ul>{% for post in site.wips reversed %}
+<ul>{% for post in site.wips %}
     {% include archive-single-cv.html %}
 {% endfor %}</ul>
 
