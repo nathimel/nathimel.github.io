@@ -1,7 +1,7 @@
 ---
 title: "Noisy population dynamics lead to efficiently compressed semantic systems"
 collection: publications
-permalink: /publication/ibsg
+permalink: /publication/1_ibsg
 excerpt: #'This paper is about the number 2. The number 3 is left for future work.' date: 
 venue: 'NeurIPS 2023 Workshop on Information-Theoretic Principles in Cognitive Systems'
 # paperurl: 'https://psyarxiv.com/b62de'

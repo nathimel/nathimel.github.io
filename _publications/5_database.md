@@ -1,7 +1,7 @@
 ---
 title: "A database for modal semantic typology"
 collection: publications
-permalink: /publication/database
+permalink: /publication/5_database
 excerpt: # 'This paper is about the number 3. The number 4 is left for future work.'
 # date: 2022-07-14
 venue: 'Proceedings of the 4th Workshop on Computational Typology and Multilingual NLP (SIGTYP 2022)'

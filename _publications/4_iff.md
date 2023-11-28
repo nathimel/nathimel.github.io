@@ -1,7 +1,7 @@
 ---
 title: "A semantic universal for modality"
 collection: publications
-permalink: /publication/iff-paper
+permalink: /publication/4_iff-paper
 excerpt: #'This paper is about the number 2. The number 3 is left for future work.' date: 
 venue: 'Semantics and Pragmatics'
 # date: 2023

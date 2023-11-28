@@ -1,7 +1,7 @@
 ---
 title: "The evolution of efficient compression in signaling games"
 collection: publications
-permalink: /publication/rdsg
+permalink: /publication/2_rdsg
 excerpt: #'This paper is about the number 2. The number 3 is left for future work.' date: 
 venue: 'Proceedings of the 45th Annual Meeting of the Cognitive Science Society (CogSci 2023)'
 # paperurl: 'https://psyarxiv.com/b62de'

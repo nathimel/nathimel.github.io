@@ -1,7 +1,7 @@
 ---
 title: "Modal semantic universals optimize the simplicity/informativeness trade-off"
 collection: publications
-permalink: /publication/modals-effcomm-salt
+permalink: /publication/3_modals-effcomm-salt
 excerpt: # 'This paper is about the number 1. The number 2 is left for future work.'
 # date: 2022-10-15
 venue: 'Proceedings of Semantics and Linguistic Theory 32'
