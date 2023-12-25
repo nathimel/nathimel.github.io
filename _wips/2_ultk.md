@@ -17,4 +17,4 @@ ULTK is a software library that aims to support research in Unnatural Language S
 
 A current focus is on efficient communication: determining whether linguistic meanings are optimized for a trade-off between cognitive complexity and communicative accuracy.
 
-ALTK is still in development.
+ULTK is still in development.
