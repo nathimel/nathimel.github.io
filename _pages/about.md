@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm a second year Ph.D. student at the [Department of Language Science](https://www.langsci.uci.edu/) at UC Irvine, where I work with professors [Noga Zaslavsky](https://www.nogsky.com/) and [Richard Futrell](https://sites.socsci.uci.edu/~rfutrell/).
+I'm a second year Ph.D. student at the [Department of Language Science](https://www.langsci.uci.edu/) at UC Irvine, where I am advised by [Noga Zaslavsky](https://www.nogsky.com/).
 
 Before coming to Irvine, I earned an M.S. in computational linguistics at the University of Washington, working with [Shane Steinert-Threlkeld](https://www.shane.st/) at the [CLMBR](https://clmbr.shane.st/) lab. Before that I earned a B.A. in philosophy at UC San Diego.
 
