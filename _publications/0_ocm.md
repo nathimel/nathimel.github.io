@@ -1,7 +1,7 @@
 ---
 title: "Optimal compression in human concept learning"
 collection: publications
-permalink: /publication/0_ocm.md
+permalink: /publication/0_ocm
 excerpt: #'This paper is about the number 2. The number 3 is left for future work.' date: 
 venue: 'Proceedings of the 65th Annual Meeting of the Cognitive Science Society (CogSci 2023)'
 # paperurl: 'https://psyarxiv.com/b62de'
