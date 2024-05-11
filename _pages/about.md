@@ -14,6 +14,9 @@ Before coming to Irvine, I earned an M.S. in computational linguistics at the Un
 
 <!-- I study how various internal and external pressures shape our representations of the world, from the level of our vocabularies to that of scientific research programs. At the level of cognitive systems, I use evolutionary models to explain why our semantic categories are structured the way they are. At the level of scientific communities, I conduct large scale, data-driven analyses of publishing behavior. My research is broadly unified by the goal of understanding how people transfer and process information. -->
 
-I am interested in the various cognitive and cultural pressures that shape human languages. To this end, most of my published work focuses on how computational principles can explain empirically observed constraints on linguistic meaning. Ultimately, I'm interested in understanding how people transfer information efficiently -- not just at the level of the vocabulary, but at the level of naturalistic, socially-grounded language use.
+I'm interested in the principles that underlie our ability to efficiently represent the world and to communicate these representations to other minds. My projects have focused on:
+- how pressure for communicative efficiency can explain variation in [semantic typology](https://nathimel.github.io/publication/3_modals-effcomm-salt),
+- how such efficiency might [emerge](https://nathimel.github.io/publication/1_ibsg) from well-studied evolutionary dynamics,
+- and how optimal compression might shape how people learn [concepts](https://nathimel.github.io/publication/0_ocm).
 
 Here is my [cv](../files/nathaniel_imel_cv.pdf).
