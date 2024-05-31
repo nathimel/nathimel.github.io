@@ -16,7 +16,7 @@ Before coming to Irvine, I earned an M.S. in computational linguistics at the Un
 
 I'm interested in the principles that underlie our ability to efficiently represent the world and to communicate these representations to other minds. My projects have focused on:
 - how pressure for communicative efficiency can explain variation in [semantic typology](https://nathimel.github.io/publication/3_modals-effcomm-salt),
-- how such efficiency might [emerge](https://nathimel.github.io/publication/1_ibsg) from well-studied evolutionary dynamics,
+- how such efficiency might [emerge](https://nathimel.github.io/publication/1_ibsg) from generic evolutionary dynamics,
 - and how optimal compression might shape how people learn [concepts](https://nathimel.github.io/publication/0_ocm).
 
 Here is my [cv](../files/nathaniel_imel_cv.pdf).
