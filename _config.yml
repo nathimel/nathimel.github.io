@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Nathaniel Imel"
   avatar           : "nathaniel.jpg"
-  bio              : "Ph.D. student in Language Science."
-  location         : "Irvine, CA"
+  bio              : "Ph.D. student in Cognition and Perception."
+  location         : "NYC"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=vRdh5isAAAAJ&hl=en&oi=ao"
-  email            : "nimel@uci.edu"
+  email            : "n.imel@nyu.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
