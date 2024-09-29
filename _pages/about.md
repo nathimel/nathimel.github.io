@@ -8,13 +8,13 @@ redirect_from:
   - /about.html
 ---
 
-I'm a Ph.D. student in Psychology ([Cognition and Perception](https://as.nyu.edu/departments/psychology/graduate/phd-cognition-perception.html)) at New York University, where I'm advised by [Noga Zaslavsky](https://www.nogsky.com/).
+I'm a Ph.D. student in [Cognition and Perception](https://as.nyu.edu/departments/psychology/graduate/phd-cognition-perception.html) at New York University, where I'm advised by [Noga Zaslavsky](https://www.nogsky.com/).
 
 
-I'm interested in the principles that underlie our ability to efficiently represent the world and to communicate these representations to other minds. My projects have focused on:
+I'm interested in the principles that underlie our ability to efficiently represent the world and in the mechanisms that allow us to arrive at these representations. My projects have focused on:
 - how pressure for communicative efficiency can explain variation in [semantic typology](https://nathimel.github.io/publication/3_modals-effcomm-salt),
-- how such efficiency might [emerge](https://nathimel.github.io/publication/1_ibsg) from generic evolutionary dynamics,
-- and how optimal compression might shape how people learn [concepts](https://nathimel.github.io/publication/0_ocm).
+- how such efficiency might [emerge](https://nathimel.github.io/publication/1_ibsg) from evolutionary game dynamics,
+- and how optimal lossy compression might shape how people learn [concepts](https://nathimel.github.io/publication/0_ocm).
 
 Before coming to NYU, I spent time at UC Irvine in the departments of [Language Science](https://www.langsci.uci.edu/) and [Logic and Philosophy of Science](https://www.lps.uci.edu/). Before that I earned an M.S. in computational linguistics at the University of Washington, working with [Shane Steinert-Threlkeld](https://www.shane.st/) at the [CLMBR](https://clmbr.shane.st/) lab. Before that I earned a B.A. in philosophy at UC San Diego.
 
