@@ -13,7 +13,7 @@ I'm a Ph.D. student in [Cognition and Perception](https://as.nyu.edu/departments
 
 I'm interested in the principles that underlie our ability to efficiently represent the world and in the mechanisms that allow us to arrive at these representations. My projects have focused on:
 - how pressure for communicative efficiency can explain variation in [semantic typology](https://nathimel.github.io/publication/3_modals-effcomm-salt),
-- how such efficiency might [emerge](https://nathimel.github.io/publication/1_ibsg) from evolutionary game dynamics,
+- how such efficiency might [emerge](https://nathimel.github.io/publication/1_ibsg) from evolutionary dynamics,
 - and how optimal lossy compression might shape how people learn [concepts](https://nathimel.github.io/publication/0_ocm).
 
 Before coming to NYU, I spent time at UC Irvine in the departments of [Language Science](https://www.langsci.uci.edu/) and [Logic and Philosophy of Science](https://www.lps.uci.edu/). Before that I earned an M.S. in computational linguistics at the University of Washington, working with [Shane Steinert-Threlkeld](https://www.shane.st/) at the [CLMBR](https://clmbr.shane.st/) lab. Before that I earned a B.A. in philosophy at UC San Diego.
