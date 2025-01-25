@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 
-Peer-reviewed publications
+Papers
 ======
 
 <ul>{% for post in site.publications %}
