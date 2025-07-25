@@ -6,7 +6,7 @@ excerpt: #'This paper is about the number 2. The number 3 is left for future wor
 venue: 'Proceedings of the 47th Annual Meeting of the Cognitive Science Society (CogSci 2025)'
 # paperurl: 'https://psyarxiv.com/b62de'
 # date: 2023
-citation: 'Imel, N., & Culbertson, J. & Kirby, S., & Zaslavsky, N. (2025). &quot;Iterated language learning is shaped by a drive for optimizing lossy compression.&quot; <i>in Proceedings of the 46th Annual Meeting of the Cognitive
+citation: 'Imel, N., & Culbertson, J. & Kirby, S., & Zaslavsky, N. (2025). &quot;Iterated language learning is shaped by a drive for optimizing lossy compression.&quot; <i>in Proceedings of the 47th Annual Meeting of the Cognitive
 Science Society.</i>'
 ---
 

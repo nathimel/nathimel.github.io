@@ -8,7 +8,7 @@ venue: 'Proceedings of the 47th Annual Meeting of the Cognitive Science Society 
 # paperurl: 'https://psyarxiv.com/b62de'
 # date: 2023
 citation: 'Taliaferro, M., & Imel, & N., Zaslavsky, N. & Blanco-Elorrieta, E. (2025). &quot;Bilinguals exhibit semantic convergence
-while maintaining near-optimal efficiency.&quot; <i>in Proceedings of the 46th Annual Meeting of the Cognitive
+while maintaining near-optimal efficiency.&quot; <i>in Proceedings of the 47th Annual Meeting of the Cognitive
 Science Society.</i>'
 ---
 
