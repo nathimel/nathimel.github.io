@@ -7,7 +7,7 @@ excerpt: #'This paper is about the number 2. The number 3 is left for future wor
 venue: 'Proceedings of the 47th Annual Meeting of the Cognitive Science Society (CogSci 2025)'
 # paperurl: 'https://psyarxiv.com/b62de'
 # date: 2023
-citation: 'Taliaferro, M., Imel, N., Zaslavsky, N. & Blanco-Elorrieta, E. (2025). &quot;Bilinguals exhibit semantic convergence
+citation: 'Taliaferro, M., & Imel, & N., Zaslavsky, N. & Blanco-Elorrieta, E. (2025). &quot;Bilinguals exhibit semantic convergence
 while maintaining near-optimal efficiency.&quot; <i>in Proceedings of the 46th Annual Meeting of the Cognitive
 Science Society.</i>'
 ---
