@@ -2,7 +2,7 @@
 title: "Bilinguals exhibit semantic convergence
 while maintaining near-optimal efficiency"
 collection: publications
-permalink: /publication/_bilingual_ib
+permalink: /publication/0_bilingual_ib
 excerpt: #'This paper is about the number 2. The number 3 is left for future work.' date: 
 venue: 'Proceedings of the 47th Annual Meeting of the Cognitive Science Society (CogSci 2025)'
 # paperurl: 'https://psyarxiv.com/b62de'
