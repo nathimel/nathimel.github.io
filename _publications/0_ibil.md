@@ -12,7 +12,7 @@ Science Society.</i>'
 
 
 
-[![Preprint](https://img.shields.io/badge/paper-lightblue)](https://www.biorxiv.org/content/10.1101/2025.05.23.655237v1)
+[![Paper](https://img.shields.io/badge/paper-lightblue)](https://escholarship.org/uc/item/63d7n4v0)
 
 
 ### Abstract

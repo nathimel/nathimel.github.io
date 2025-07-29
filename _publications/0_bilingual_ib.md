@@ -12,11 +12,8 @@ while maintaining near-optimal efficiency.&quot; <i>in Proceedings of the 47th A
 Science Society.</i>'
 ---
 
+[![Paper](https://img.shields.io/badge/paper-lightblue)](https://escholarship.org/uc/item/4128j529)
 
-
-<!-- [![Paper](https://img.shields.io/badge/paper-lightblue)](https://escholarship.org/uc/item/7pc1g61d) -->
-
-Link to proceedings paper coming soon!
 
 ### Abstract
 
