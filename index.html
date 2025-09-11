@@ -1,0 +1,141 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Nathaniel Imel</title>
+    <style>
+        body {
+            font-family: 'Arial', sans-serif;
+            margin: 40px;
+            line-height: 1.8;
+            background-color: #1e2127;
+            color: #dcdcdc;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            font-size: 18px;
+        }
+        .container {
+            display: flex;
+            width: 80%;
+            max-width: 1000px;
+        }
+        .sidebar {
+            width: 250px;
+            text-align: left;
+            padding-right: 30px;
+        }
+        .sidebar img {
+            max-width: 180px;
+            border-radius: 50%;
+            margin-bottom: 20px;
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.5);
+        }
+        .sidebar ul {
+            list-style-type: none;
+            padding: 0;
+            text-align: left;
+        }
+        .sidebar li {
+            margin-bottom: 10px;
+        }
+        .sidebar a, .papers a, .content a { /* Unified link color */
+            color: #90caf9;
+            text-decoration: none;
+        }
+        .sidebar a:hover, .papers a:hover, .content a:hover { /* Unified hover color */
+            text-decoration: underline;
+            color: #64b5f6;
+        }
+        .sidebar ul li a {
+            font-size: 16px;
+        }
+        .content {
+            flex-grow: 1;
+            text-align: left;
+        }
+        h1 {
+            color: #e0e0e0;
+            font-size: 1.8em;
+            margin-bottom: 20px;
+        }
+        h2 {
+            color: #c0c0c0;
+            margin-top: 40px;
+            margin-bottom: 15px;
+            font-size: 1.8em;
+            border-bottom: 1px solid #333;
+            padding-bottom: 5px;
+        }
+        p {
+            max-width: 700px;
+            color: #b0b0b0;
+            line-height: 1.7;
+        }
+        .papers {
+            width: 80%;
+            max-width: 1000px;
+            text-align: left;
+        }
+        .papers ul {
+            list-style-type: none;
+            padding: 0;
+        }
+        .papers li {
+            margin-bottom: 10px;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <div class="sidebar">
+            <img src="your_photo.jpg" alt="Nathaniel Imel">
+            <ul>
+                <li><a href="https://scholar.google.com/citations?user=vRdh5isAAAAJ&hl=en&oi=ao">Google Scholar</a></li>
+                <li><a href="https://www.linkedin.com/in/nathaniel-imel-41069b1a3/">LinkedIn</a></li>                
+                <li><a href="https://github.com/nathimel">GitHub</a></li>                
+                <li><a href="mailto:ni2128@nyu.edu">Email</a></li>
+                <li><a href="https://nathimel.github.io/files/nathaniel_imel_cv.pdf">CV</a></li>
+            </ul>
+        </div>
+        <div class="content">
+            <h1>Nathaniel Imel</h1>
+            <p>
+                I am a Ph.D. student in <a href="https://as.nyu.edu/departments/psychology/graduate/phd-cognition-perception.html">Cognition and Perception</a> at NYU, working with <a href="https://nogsky.com">Noga Zaslavsky</a> in the InfoCog Lab.
+            </p>
+            <p>                
+                <!-- Before coming to NYU, I spent time at UC Irvine in the departments of <a href="https://www.langsci.uci.edu/">Language Science</a> and <a href="https://www.lps.uci.edu/">Logic and Philosophy of Science</a>. Before that I earned an M.S. in computational linguistics at the University of Washington, working with Shane Steinert-Threlkeld in the <a href="https://clmbr.shane.st">CLMBR</a> lab. Before that I earned a B.A. in philosophy at UC San Diego. -->
+                My research broadly explores how ideas about information, learning and evolution can help us understand behavior in cognitive systems. Recent projects have focused on characterizing the evolution of efficient representations in humans and machines.                 
+            </p>
+            <p>              
+                Before coming to NYU, I spent time at UC Irvine in the departments of <a href="https://www.langsci.uci.edu/">Language Science</a> and <a href="https://www.lps.uci.edu/">Logic and Philosophy of Science</a>. Before that I earned an M.S. in computational linguistics at the University of Washington, working with Shane Steinert-Threlkeld in the <a href="https://clmbr.shane.st">CLMBR</a> lab. Before that I earned a B.A. in philosophy at UC San Diego.
+                <!-- My research broadly explores how ideas about information, learning and evolution can help us understand behavior in cognitive systems. My recent projects have focused on how languages carve up meaning, how concepts are learned, and how efficient vocabularies can evolve. These days, I'm trying to bridge principles from rate distortion theory and evolutionary game theory to understand the cultural emergence of compressed representations. -->
+                <!-- I'm broadly interested in finding unifying theoretical principles to characterize semantic representations and their evolutionary dynamics. These days, I'm trying to bridge concepts from information theory and game theory to model the cultural emergence of compressed representations. My recent projects are aimed at testing these ideas empirically in humans and machines. -->
+                <!-- I'm interested in the natural and cultural forces that shape <b>meaning</b>, <b>knowledge</b>, and <b>inquiry</b>. My work investigates these ideas by drawing on principles from information theory and dynamical systems, as well as insights from language science. Recent projects have applied these tools to characterize the evolution of efficient representations in humans and machines. -->
+            </p>            
+        </div>
+    </div>
+
+    <div class="papers">
+        <h2>Papers</h2>
+        <p>* = equal contribution</p>
+        <ul>
+            <li><a href="https://arxiv.org/abs/2509.08093">Culturally transmitted color categories in LLMs reflect a learning bias toward efficient compression</a> - Imel, N. & Zaslavsky, N. (2025). arxiv.</li>
+            <li><a href="https://escholarship.org/uc/item/63d7n4v0">Iterated learning is shaped by a drive for optimizing lossy compression</a> - Imel, N. & Culbertson, J. & Kirby, S. & Zaslavsky, N. (2025). Proceedings of the 47th Annual Meeting of the Cognitive Science Society.</li>
+            <li><a href="https://escholarship.org/uc/item/4128j529">Bilinguals exhibit semantic convergence in categorization while remaining optimally efficient</a> - Taliaferro, M.* & Imel, N.* & Blanco-Elorietta, E. & Zaslavsky, N. (2025). Proceedings of the 47th Annual Meeting of the Cognitive Science Society.</li>
+            <li><a href="https://arxiv.org/abs/2506.23366">Density, asymmetry and citation dynamics in scientific literature</a> - Imel, N. & Hafen-Saavedra, Z. (2025). arxiv.</li>
+            <li><a href="https://doi.org/10.7275/scil.3144">The Unnatural Language ToolKit (ULTK)</a> - Imel, N. & Haberland, C. & Steinert-Threlkeld, S. (2025). Proceedings of the 8th Annual Society for Computation in Linguistics.</li>
+            <li><a href="https://escholarship.org/uc/item/7pc1g61d">Optimal compression in human concept learning</a> - Imel, N. & Zaslavsky, N. (2024). Proceedings of the 46th Annual Meeting of the Cognitive Science Society.</li>
+            <li><a href="https://openreview.net/pdf?id=mISayy7DPI">Citation-similarity relationships in astrophysics literature</a> - Imel, N., & Hafen-Saavedra, Z. (2023). NeurIPS 2023 Workshop on AI for Scientific Discovery: From Theory to Practice.</li>
+            <li><a href="https://openreview.net/pdf?id=9oEXdXmMNr">Noisy population dynamics lead to efficiently compressed semantic systems</a> - Imel, N., & Futrell, R., & Franke, M., & Zaslavsky, N. (2023). NeurIPS 2023 Workshop on Information-Theoretic Principles in Cognitive Systems.</li>
+            <li><a href="https://escholarship.org/uc/item/5dr5h4q0">The evolution of efficient compression in signaling games</a> - Imel, N. (2023). Proceedings of the 45th Annual Meeting of the Cognitive Science Society.</li>
+            <li><a href="https://osf.io/preprints/psyarxiv/h63y9_v1">Deontic priority in the lexicalization of impossibility modals</a> - Uegaki, W., Mucha, A., Imel, N., & Steinert-Threlkeld, S. (2023). PsyArXiv.</li>
+            <li><a href="https://ling.auf.net/lingbuzz/007392">An efficient communication analysis of modal typology</a> - Imel, N., Guo, Q., & Steinert-Threlkeld, S. (2023). lingbuzz.</li>
+            <li><a href="https://doi.org/10.3765/sp.16.1">A semantic universal for modality</a> - Steinert-Threlkeld, S., Imel, N., & Guo, Q. (2023). Semantics and Pragmatics, 16, 1:EA-1:EA.</li>
+            <li><a href="https://sigtyp.github.io/workshops/2022/sigtyp/papers/SIGTYP8.pdf">A database for modal semantic typology</a> - Guo, Q. Imel, N., and Steinert-Threlkeld, S. (2022). Proceedings of the 4th Workshop on Computational Typology and Multilingual NLP (SIGTYP 2022). pp 42-51.</li>            
+            <li><a href="https://doi.org/10.3765/salt.v1i0.5346">Modal semantic universals optimize the simplicity/informativeness trade-off</a> - Imel, N. and Steinert-Threlkeld, S. (2022). Proceedings of Semantics and Linguistic Theory 32.</li>
+        </ul>
+    </div>
+</body>
+</html>
